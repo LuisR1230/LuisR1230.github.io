@@ -1,0 +1,59 @@
+h1 {
+    background: red;
+    border: 1px solid red;
+    border-radius: 20px;
+    color: ghostwhite;
+    display: inline-block;
+    padding: 14px;
+    font-family: "Arial";
+    font-size: 40px;
+    position: static;
+    top: 10px;
+}
+
+a{
+    text-align: start;
+    padding: 20px;
+    font-size: 20px;
+    background-color:#f44336;
+color:white;
+    display:inline-block;
+}
+
+
+p{
+    font-size: 18px;
+}
+.descr{
+    color:red;
+}
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: lightslategray;
+}
+
+h2{
+    font-size: 30px;
+    font-style: oblique;
+    margin-right:10%;
+    margin-top:8%;
+
+}
+
+.bigger{
+    width:100%;
+    height:auto
+}
+
+
